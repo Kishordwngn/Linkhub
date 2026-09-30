@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix DevPortfolio Showcase",
+  "description": "A dynamic, link-in-bio platform for web developers to showcase project demos through an easily updateable, centralized portfolio hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
